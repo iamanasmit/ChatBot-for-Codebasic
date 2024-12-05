@@ -3,3 +3,4 @@ langchain
 transformers
 torch
 sentence-transformers
+langchain_community
