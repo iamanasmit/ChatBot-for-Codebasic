@@ -1,4 +1,3 @@
-streamlit
 langchain
 pickle
 transformers  # Required for HuggingFace models
