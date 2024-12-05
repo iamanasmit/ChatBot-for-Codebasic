@@ -1,4 +1,5 @@
+streamlit
 langchain
-pickle
-transformers  # Required for HuggingFace models
-torch  # Required by transformers for running model
+transformers
+torch
+sentence-transformers
