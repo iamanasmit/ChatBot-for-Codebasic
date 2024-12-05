@@ -1,0 +1,6 @@
+streamlit
+langchain
+pickle5  # For loading the pickle file, since Python's built-in pickle may not work across Python versions
+transformers  # Required for HuggingFace models
+torch  # Required by transformers for running models
+sentence-transformers  # Likely needed for the vector store
